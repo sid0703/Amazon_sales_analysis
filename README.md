@@ -1,19 +1,19 @@
 # Amazon_sales_analysis
 
-Dataset Features
+#Dataset Features
   Order Details:
   Order ID
   Date
   Status
   Sales Channel
-Product Information:
+#Product Information:
   Product Category
   Size
   Quantity
   Amount
-Customer Information:
+#Customer Information:
   Customer ID
   Location (State, City)
-Fulfillment Information:
+#Fulfillment Information:
   Fulfillment Method
   Shipping Details
